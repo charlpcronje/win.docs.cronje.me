@@ -2,8 +2,8 @@ input: src
 output: public
 url: http://win.docs.CRONje.ME
 branding:
-  title: CRONje.ME Windows Tips
-  label: Docs
+  title: CRONje.ME | Windows Tips
+  label: WIN
 links:
 - text: Dashboard
   link: https://nav.cronje.me

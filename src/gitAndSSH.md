@@ -1,8 +1,8 @@
-# gitAndSSH
+# Git And SSH
 
-# How to Set Up your SSH key for GitHub on Windows 10
+## How to Set Up your SSH key for GitHub on Windows 10
 
-## One of the most common issues while getting started with Git and GitHub is setting up the SSH private and public keys. On top of this, Git password authentication is no longer available on GitHub.
+-- One of the most common issues while getting started with Git and GitHub is setting up the SSH private and public keys. On top of this, Git password authentication is no longer available on GitHub.
 
 _Last updated: January 2022_
 
