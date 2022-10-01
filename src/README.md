@@ -11,7 +11,8 @@ title: Windows 10 & 11 Tips and Tricks
 ```
 
 - [Install GIT and Setup SSH Key](gitAndSSH.md)
+- [Restart device directly to BIOS](restartToBios.md)
 
-I got interupted while writing my first post on this subject, but I'll get it done soon...
+I got interrupted while writing my first post on this subject, but I'll get it done soon...
 
 Look at [https://docs.cronje.me](https://docs.cronje.me) for all my other docs, tips and tricks
